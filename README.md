@@ -177,17 +177,24 @@ group by 1 ;
 
 ## Business Takeaways
 
--Focus marketing campaigns during peak hours 
+-Focus marketing campaigns during peak hours
+
 -Increase inventory for high-performing categories
+
 -Introduce loyalty programs to convert one-time buyers into repeat customers
+
 -Leverage high spenders for premium targeting & upselling
+
 -Use seasonal trends for demand forecasting
 
 ## Learnings
 
 -Built strong understanding of data cleaning and handling NULL values
+
 -Applied aggregate functions and grouping for business insights
+
 -Used window functions to analyze trends
+
 -Translated raw data into actionable business decisions
 
 ## Conclusion
